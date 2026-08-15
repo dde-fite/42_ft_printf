@@ -39,7 +39,7 @@ The functions and Makefile are designed for use in a UNIX-like environment; any 
 ### Compiling
 - Clone the repository recursively to download the submodules.
 ``` bash
-git clone --recursive https://github.com/dde-fite/42_ft_printf.git
+git clone --recursive https://codeberg.org/noradefitero/42_ft_printf.git
 ```
 
 - For the general section

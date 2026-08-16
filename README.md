@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-This work is published under the terms of <a href="LICENSE"><b>MIT license</b></a>
+This work is published under the terms of <a href="LICENSE"><b>MIT license</b></a>. Hosted on <b><a href="https://codeberg.org/noradefitero/42_ft_printf">Codeberg</a></b>.
 </p>
 
 <div align="center">
